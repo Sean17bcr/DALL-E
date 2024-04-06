@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seanb\\Downloads\\DALL-E\\DALL-E\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2CEC84-7931-4F4E-9717-5CD1B36EC5E7}|DALL-E\\DALL-E.csproj|c:\\users\\seanb\\downloads\\dall-e\\dall-e\\dall-e\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB2CEC84-7931-4F4E-9717-5CD1B36EC5E7}|DALL-E\\DALL-E.csproj|solutionrelative:dall-e\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2CEC84-7931-4F4E-9717-5CD1B36EC5E7}|DALL-E\\DALL-E.csproj|c:\\users\\seanb\\downloads\\dall-e\\dall-e\\dall-e\\services\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2CEC84-7931-4F4E-9717-5CD1B36EC5E7}|DALL-E\\DALL-E.csproj|solutionrelative:dall-e\\services\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2CEC84-7931-4F4E-9717-5CD1B36EC5E7}|DALL-E\\DALL-E.csproj|c:\\users\\seanb\\downloads\\dall-e\\dall-e\\dall-e\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2CEC84-7931-4F4E-9717-5CD1B36EC5E7}|DALL-E\\DALL-E.csproj|solutionrelative:dall-e\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2CEC84-7931-4F4E-9717-5CD1B36EC5E7}|DALL-E\\DALL-E.csproj|c:\\users\\seanb\\downloads\\dall-e\\dall-e\\dall-e\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB2CEC84-7931-4F4E-9717-5CD1B36EC5E7}|DALL-E\\DALL-E.csproj|solutionrelative:dall-e\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2CEC84-7931-4F4E-9717-5CD1B36EC5E7}|DALL-E\\DALL-E.csproj|c:\\users\\seanb\\downloads\\dall-e\\dall-e\\dall-e\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2CEC84-7931-4F4E-9717-5CD1B36EC5E7}|DALL-E\\DALL-E.csproj|solutionrelative:dall-e\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\seanb\\Downloads\\DALL-E\\DALL-E\\DALL-E\\appsettings.json",
+              "RelativeDocumentMoniker": "DALL-E\\appsettings.json",
+              "ToolTip": "C:\\Users\\seanb\\Downloads\\DALL-E\\DALL-E\\DALL-E\\appsettings.json",
+              "RelativeToolTip": "DALL-E\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T02:03:20.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\seanb\\Downloads\\DALL-E\\DALL-E\\DALL-E\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "DALL-E\\Models\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\seanb\\Downloads\\DALL-E\\DALL-E\\DALL-E\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "DALL-E\\Models\\ResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:03:11.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\seanb\\Downloads\\DALL-E\\DALL-E\\DALL-E\\Services\\Consulta.cs",
+              "RelativeDocumentMoniker": "DALL-E\\Services\\Consulta.cs",
+              "ToolTip": "C:\\Users\\seanb\\Downloads\\DALL-E\\DALL-E\\DALL-E\\Services\\Consulta.cs",
+              "RelativeToolTip": "DALL-E\\Services\\Consulta.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:02:40.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\seanb\\Downloads\\DALL-E\\DALL-E\\DALL-E\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DALL-E\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\seanb\\Downloads\\DALL-E\\DALL-E\\DALL-E\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DALL-E\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:02:40.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\seanb\\Downloads\\DALL-E\\DALL-E\\DALL-E\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DALL-E\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\seanb\\Downloads\\DALL-E\\DALL-E\\DALL-E\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DALL-E\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T02:02:40.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

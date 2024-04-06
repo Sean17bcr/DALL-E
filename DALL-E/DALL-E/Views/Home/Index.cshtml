@@ -1,0 +1,34 @@
+﻿@model DALL_E.Models.Input
+
+
+@{
+    ViewData["Title"] = "Genere una Imagen";
+}
+
+<h1>DALL-E AI Demo</h1>
+@using (Html.BeginForm("Index", "Home", FormMethod.Post, new { @class = "pt-3" }))
+{
+    <div>
+        <label for="prompt">Ingrese una descripción:</label><br>
+        @Html.TextBoxFor(m => m.prompt, new { @class = "form-control form-control-lg", @type = "text", @placeholder = "prompt", @id = "prompt" })
+        <button onclick="generateImage()">Generar Imagen</button>
+    </div>
+}
+
+
+<div id="output">
+    @if (ViewBag.Imagen != null)
+    {
+        @foreach (var link in ViewBag.Imagen.data)
+        {
+            <img src="@link.url" alt="Generated Image">
+        }
+
+    }
+    else
+    {
+        <p>No hay ninguna imagen para mostrar</p>
+    }
+
+</div>
+
